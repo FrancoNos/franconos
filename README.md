@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador Frontend con experiencia en tecnologías como JavaScript, React, CSS y HTML. Enfoque en la creación de aplicaciones web atractivas y funcionales.</h3>
 
 - 🔭 Actualmente trabajando en el proyecto **NearbyTour**
-- 📫 How to reach me **fat7_2014@hotmail.com**
+- 📫 Mi correo electrónico **fat7_2014@hotmail.com**
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
