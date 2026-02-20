@@ -3,25 +3,23 @@
 
 <p align="center">
   Desarrollador enfocado en la creación de aplicaciones web atractivas, funcionales y escalables. 
-  [cite_start]Con experiencia en maquetado, integración de APIs y metodologías ágiles. [cite: 4, 5, 11]
+  Con experiencia en maquetado, integración de APIs y metodologías ágiles. 
 </p>
 
-- [cite_start]🚀 **Proyectos destacados:** - **Nearby Tour:** Aplicación de turismo desarrollada con Next.js y Tailwind CSS. [cite: 19, 22]
-    - [cite_start]**PetAdopt:** Desarrollo fullstack colaborativo bajo la mentoría de Smartway. [cite: 31, 32]
-- [cite_start]🎓 **Educación:** Estudiante de Programación y Guía de Turismo. [cite: 38]
-- [cite_start]📫 **Contacto:** francotejada2014@gmail.com 
+-  **Proyectos destacados:** - **Nearby Tour:** Aplicación de turismo desarrollada con Next.js y Tailwind CSS.
+- **PetAdopt:** Desarrollo fullstack colaborativo bajo la mentoría de Smartway.
+- 🎓 **Educación:** Estudiante de Programación y Guía de Turismo. 
+- 📫 **Contacto:** francotejada2014@gmail.com 
 
 ### 🛠️ Tecnologías y Herramientas
 
 **Lenguajes y Frontend:**
-- [cite_start]JavaScript (ES6+), TypeScript, React.js, Next.js, HTML5, CSS3, Tailwind CSS. [cite: 8, 9, 19]
+- JavaScript (ES6+), TypeScript, React.js, Next.js, HTML5, CSS3, Tailwind CSS. 
 
 **Backend y Bases de Datos:**
-- [cite_start]Node.js, Express, NestJS, PostgreSQL, Sequelize, Prisma. [cite: 9, 10]
-
+- Node.js, Express, NestJS, PostgreSQL, Sequelize, Prisma. 
 **Testing y Otros:**
-- [cite_start]Manual Testing (QA), Git, Jira, Integración con MercadoPago. [cite: 11, 12, 20]
-
+- Manual Testing (QA), Git, Jira, Integración con MercadoPago.
 ### 🌐 Conectate conmigo
 <p align="left">
 <a href="https://www.linkedin.com/in/franco-tejada1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franco tejada" height="30" width="40" /></a>
