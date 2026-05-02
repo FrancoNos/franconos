@@ -1,4 +1,4 @@
-<h1 align="center">Buenas 👋, soy Franco (Mio)</h1>
+<h1 align="center">Buenas 👋, soy Franco </h1>
 <h3 align="center">Frontend Developer | React - Next.js - Node.js</h3>
 
 <p align="center">
@@ -47,11 +47,3 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![MercadoPago](https://img.shields.io/badge/MercadoPago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
