@@ -20,9 +20,7 @@
 ### 👨‍💻 Sobre mí
 
 - 🔭 Actualmente trabajando como **Frontend Developer** en el equipo de **PhysaFlow**.
-- 💼 Desarrollando **NearbyTour**, una web app que une mi perfil tech con mis estudios universitarios como Guía de Turismo.
 - 🌱 Preparándome para obtener la certificación **Google Cloud Foundations**.
-- ⚡ **Fun fact:** Aplico la misma lógica que uso para refactorizar componentes cuando analizo *build orders* en *Age of Empires II*. Si no estoy codeando, seguro estoy entrenando calistenia, jugando al fútbol o viendo *Frieren*.
 
 ---
 
